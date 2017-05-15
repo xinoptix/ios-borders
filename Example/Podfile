@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ios-borders_Example' do
+  pod 'ios-borders', :path => '../'
+
+  target 'ios-borders_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
