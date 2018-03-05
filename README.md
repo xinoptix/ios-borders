@@ -22,7 +22,7 @@ pod "ios-borders"
 
 ## Author
 
-ivan.abundis@digitalonus.com, heysoyivan@gmail.com
+ivan@xinoptix.com
 
 ## License
 
